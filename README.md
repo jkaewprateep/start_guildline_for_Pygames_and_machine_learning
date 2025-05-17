@@ -89,7 +89,7 @@ lossfn = tf.keras.losses.MeanSquaredError(
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 model.compile(optimizer=optimizer, loss=lossfn, metrics=['accuracy'])
 ```
-
+🐐💬 File save and reload is important because machine learning sometimes is a long process learning we need to run and replay multiple times, saved logic output also duplicates the process for multiple learning or running machines. </br>
 ```
 history = [];                                          # 🐑💬 ➰ Management file and model training log
 
@@ -105,6 +105,7 @@ if exists(checkpoint_path) :
 	print("model load: " + checkpoint_path)
 ```
 
+🐑💬 ➰ Random is an important step of learning to shorten processes your random must be simply to understand for machine and the user, Simply distance from one of axes make a strong number times multiple of random dimensions exist arrays will create high costs more chance to selected. </br>
 ```
 """ : Class / Functions """
 def random_action(gamestate):

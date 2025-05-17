@@ -105,7 +105,7 @@ if exists(checkpoint_path) :
 	print("model load: " + checkpoint_path)
 ```
 
-🐑💬 ➰ Random is an important step of learning to shorten processes your random must be simply to understand for machine and the user, Simply distance from one of axes make a strong number times multiple of random dimensions exist arrays will create high costs more chance to selected. </br>
+🐑💬 ➰ Random is an important step of learning to shorten processes your random must be simply to understand for machine and the user, Simply distance from one of axes make a strong number times multiple of random dimensions exist arrays will create high costs more chance to be selected. </br>
 ```
 """ : Class / Functions """
 def random_action(gamestate):
@@ -123,7 +123,7 @@ def random_action(gamestate):
     action = list(actions.values())[action]
     return action;
 ```
-
+🐑💬 ➰ Data types conversion is important and use multiple times in the application because of we need to communicate with two platform users and machine learning by a good design they will have a simple matraix return value mapping or data seleted. later use of mapping definition make code more simpler and saved to run because of debugging is possible and more comparible of input and output. </br>
 ```
 def predict_action( DATA ):                           # 🐑💬 ➰ From training model predict result from input value
 	

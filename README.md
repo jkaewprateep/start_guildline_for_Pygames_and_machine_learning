@@ -110,6 +110,7 @@ if exists(checkpoint_path) :
 ```
 
 🐑💬 ➰ Random is an important step of learning to shorten processes your random must be simply to understand for machine and the user, Simply distance from one of axes make a strong number times multiple of random dimensions exist arrays will create high costs more chance to be selected. </br>
+🧸💬 A Good random is not to clear the games with defined matrices but explore action for the machine learning as a player. </br>
 ```
 """ : Class / Functions """
 def random_action(gamestate):

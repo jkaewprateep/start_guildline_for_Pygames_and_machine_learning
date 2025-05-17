@@ -47,6 +47,7 @@ actions = dict({ "w": K_w, "s": K_s, "d": K_d, "a": K_a, "": K_h });
 ```
 
 🐐💬 Create a model for machine learning, the model simply learning networks that respond to our input as we defined and loopback propagation for a simple learning model updates weights as logicals works to replay on target devices. Learning with slope tangent is fast and effective method that is because of working with limited number of object types and fast estimation is importance as accuracy. </br>
+🧸💬 Size of the network does not mean you are smarter or dumber but matching of response and objective, same as Whales and humans. </br>
 
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""

@@ -33,7 +33,8 @@ from os.path import exists
 import tensorflow as tf;
 ```
 
-🐐💬 Create custom variables for the program and machine learning. The wide usage of variables needs to be updated to include global variables rare internal variables because the program examines the variable scopes, and for security, the application accesses the same global variables. </br>
+🐐💬 Create custom variables for the program and machine learning. The wide usage of variables needs to be updated to include global variables and rare internal variables because the program examines the variable scopes, and for security, the application accesses the same global variables. </br>
+🦭💬 In evaluation, they may require an interface file for communication, or they can read from the  communication of the program. Some applications read from the memory of the program by a block of memory defined and update the value from the program application, creating a change in application behavior sometimes allows us to read a value selected or change the dropdown value list. By performing this action should consult with the application owner, and we do this for find bug or debugging program. There are more sample with CTI application integration where they can see communication or allowed list or linked list value they are working in the memory </br>
 
 ```
 game = Snake(width=216, height=384)               # 🐑💬 ➰ Create game play environment for our experiment

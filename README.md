@@ -161,7 +161,7 @@ def action_tonumber( action ):
     
     return idx_map.get(action)
 ```
-
+👧💬 🎈 Execution I loved this part that is because it connected of definition and logics we to see the overall process with allows users to response. </br>
 ```
 p.init()
 scores = 0.0;

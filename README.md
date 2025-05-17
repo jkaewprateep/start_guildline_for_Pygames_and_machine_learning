@@ -31,6 +31,8 @@ from os.path import exists
 import tensorflow as tf;
 ```
 
+🐐💬 Create custom variables for the program and machine learning. The wide usage of variables needs to be updated to include global variables rare internal variables because the program examines the variable scopes, and for security, the application accesses the same global variables. </br>
+
 ```
 game = Snake(width=216, height=384)               # 🐑💬 ➰ Create game play environment for our experiment
 p = PLE(game, fps=30, display_screen=True)

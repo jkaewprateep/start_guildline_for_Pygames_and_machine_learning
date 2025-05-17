@@ -13,6 +13,8 @@ start guildline for Pygames and machine learning
 [Flappybird games]( https://pygame-learning-environment.readthedocs.io/en/latest/user/games/flappybird.html#rewards )
 
 🧸💬 First of all, start from a simple Python project with the Pygame library environment to create a learning environment for our machine learning. A simple project will be provided as this. </br>
+🐯💬 Culture-INFO, The input needs to be displayed or accepted from the platform or Windows user understands while running on VSCode, it displays on VSCode instead, that is how they design to tell the user to run application games outside VSCode. They can run the games with signal and keyinput but it is more likely for debugging. </br>
+🦁💬 Python environment had support for many games you can download and play with Gym Pygames. I had a project called Galaxy, it is a shooting game and uses input as virtual game observation ( screen ) as input for the machine learning. </br>
 
 ```
 x = 100
